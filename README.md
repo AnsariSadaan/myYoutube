@@ -8,6 +8,7 @@
 - cretaed a store and slice and provided a store to app
 - get youtube video api 
 - get google api
+- added live chat feature
 
 - Debouncing: 
 type slow : 200ms
